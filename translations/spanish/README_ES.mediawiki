@@ -1,0 +1,296 @@
+<pre>
+  DEF: 1
+  Titulo: El Contrato Social Inteligente
+  Autores: Santiago Siri <santi@democracy.earth>, Herb Stephens <herb@democracy.earth>.
+  Resumen-comentarios: Sin comentarios.
+  Estatus: Activo
+  Tipo: Proceso
+  Creado: 2017-07-14
+  Licensia: MIT
+  Reemplaza: 0
+</pre>
+
+=El Contrato Social Inteligente.=
+El ''Initial Rights Offering'' de [http://democracy.earth Democracy Earth Foundation].
+
+
+==i. Abstracto.==
+
+[agregar traduccion aqui]
+
+==ii. Contenido.==
+
+[agregar traduccion aqui]
+
+<div id="Background"></div>
+
+==iii. Experiencia previa.==
+
+[agregar traduccion aqui]
+
+----
+
+<div id="Manifesto"></div>
+
+==1. Manifiesto.==
+
+[agregar traduccion aqui]
+
+===1.1 Legado.===
+
+[agregar traduccion aqui]
+
+===1.2 Geopolitica.===
+
+[agregar traduccion aqui]
+
+===1.3 ''Land'' vs. ''Cloud''.===
+
+[agregar traduccion aqui]
+
+===1.4 Inteligencia.===
+
+[agregar traduccion aqui]
+
+===1.5 Decentralización.===
+
+[agregar traduccion aqui]
+
+===1.6 Sovereignty.===
+
+[agregar traduccion aqui]
+
+<div id="Paper"></div>
+
+==2. Documento.==
+
+<blockquote>
+  Es la tecnología que no controlamos la que se utiliza para controlarnos.
+</blockquote>
+[https://twitter.com/earlkman '''Emiliano Kargieman'''],  hacker espacial (1975).
+
+Un principio fundamental de la democracia es el derecho a ser escuchado. Hoy en día la mayoría de la población mundial no es escuchada: tener voz es un accidente de nacimiento. Las voces individuales y colectivas son silenciadas política y económicamente por la ‘no liquidez’ - los marginados no tienen instrumentos para difundir o ampliar su voz. La democracia moderna es consecuencia de la ''era de la imprenta'': sistemas constitucionales impresos dependientes de los contratos de tinta húmeda y la velocidad del servicio postal. Las democracias representativas son un accidente de las tecnologías de información del siglo XVIII.
+
+[[File:/images/liquid.png|Direct democracy vs. Liquid Democracy.]]
+
+Una democracia líquida se basa en un modelo dinámico de representación que funciona de abajo hacia arriba: los ciudadanos son capaces de elegir libremente dentro de su gráfico social (amigos, colegas, familia) a quienes quieren tener como representantes sobre un conjunto específico de temas. Es la forma más flexible de gobernabilidad democrática que se puede construir con tecnología digital, operando como un híbrido que permite la votación directa o delegada en cualquier momento. Existen pocos precedentes confiables que funcionan de abajo hacia arriba que resultaron en un contenido respetado, [https://www.wikipedia.org/ Wikipedia] siendo un caso pionero. Pero si la historia es una guía, la última vez que la civilización se enfrentó [https://en.wikipedia.org/wiki/Age_of_Enlightenment a un cambio de paradigma con respecto a la iluminación enciclopédica], fue precisamente en la época anterior al surgimiento de las democracias modernas.
+
+Este documento detalla la implementación de una democracia líquida usando [http://github.com/DemocracyEarth/sovereign Sovereign], nuestra aplicación de gobernabilidad democrática que opera con tokens de blockchain usando un conjunto básico de contratos inteligentes. La sencillez en el diseño y el lenguaje utilizado para expresar este diseño tiene importancia para el propósito final de un dispositivo genuinamente democrático. Ninguna tecnología será capaz de satisfacer las aspiraciones democráticas si sólo puede ser entendida por una élite. Como el criptógrafo [https://en.wikipedia.org/wiki/Ralph_Merkle Ralph Merkle] declaró:
+
+<blockquote>
+  No invitamos a ciudadanos ordinarios y sin entrenamiento a realizar cirugías, volar aviones, diseñar computadoras o llevar a cabo las otras innumerables tareas necesarias para mantener la sociedad en funcionamiento, ¿qué hace diferente la gobernanza? El problema se entiende fácilmente: si damos gobernanza a "expertos", ellos tomarán decisiones en sus propios intereses, no en el mejor interés de todos nosotros.
+</blockquote>
+
+===2.1 Token.===
+
+[agregar traduccion aqui]
+
+====2.1.1 Implementation.====
+
+[agregar traduccion aqui]
+
+===2.2 Voting.===
+
+[agregar traduccion aqui]
+
+===2.3 User Experience.===
+
+[agregar traduccion aqui]
+
+====2.3.1 Liquid.====
+
+[agregar traduccion aqui]
+
+====2.3.2 Delegations.====
+
+[agregar traduccion aqui]
+
+====2.3.3 Agora.====
+
+[agregar traduccion aqui]
+
+===2.4 Smart Contracts.===
+
+[agregar traduccion aqui]
+
+====2.4.1 <code>Organizations</code>====
+
+[agregar traduccion aqui]
+
+=====2.4.1.1 <code>Constitution</code>=====
+
+[agregar traduccion aqui]
+
+====2.4.2 <code>Members</code>====
+
+[agregar traduccion aqui]
+
+====2.4.3 <code>Issues</code>====
+
+[agregar traduccion aqui]
+
+====2.4.4 <code>Ballot</code>====
+
+[agregar traduccion aqui]
+
+=====2.4.4.1 <code>Interface</code>=====
+
+[agregar traduccion aqui]
+
+=====2.4.4.2 <code>Options</code>=====
+
+[agregar traduccion aqui]
+
+=====2.4.4.3 <code>Criteria</code>=====
+
+[agregar traduccion aqui]
+
+====2.4.5 <code>Budget</code>====
+
+[agregar traduccion aqui]
+
+===2.5 Security.===
+
+[agregar traduccion aqui]
+
+====2.5.1 Polyopoly.====
+[agregar traduccion aqui]
+
+====2.5.2 Monopoly.====
+[agregar traduccion aqui]
+
+=====2.5.2.1. Quadratic Voting.=====
+
+[agregar traduccion aqui]
+
+====2.5.3 Sybil Attack.====
+[agregar traduccion aqui]
+
+====2.5.4 Fake news.====
+[agregar traduccion aqui]
+
+=====2.5.4.1 Hard Promises=====
+
+[agregar traduccion aqui]
+
+====2.5.5 Squatting.====
+[agregar traduccion aqui]
+
+<div id="Execution"></div>
+
+==3. Execution.==
+
+[agregar traduccion aqui]
+
+===3.1 Rights vs. Debt.===
+[agregar traduccion aqui]
+
+====3.1.1 Initial Rights Offering.====
+
+[agregar traduccion aqui]
+
+===3.2 Proof of Identity.===
+
+[agregar traduccion aqui]
+
+====3.2.1 Demo.====
+
+[agregar traduccion aqui]
+
+====3.2.2 Video Proof.====
+
+[agregar traduccion aqui]
+
+====3.2.3 Hashing.====
+
+[agregar traduccion aqui]
+
+====3.2.4 Attention Mining.====
+[agregar traduccion aqui]
+
+====3.2.5 Little Brothers.====
+[agregar traduccion aqui]
+
+=====3.2.5.1 Reputation.=====
+
+[agregar traduccion aqui]
+=====3.2.5.2 Replicants.=====
+
+[agregar traduccion aqui]
+
+=====3.2.5.3 Singularity Score.=====
+
+[agregar traduccion aqui]
+
+===3.3 Universal Basic Income.===
+[agregar traduccion aqui]
+
+====3.3.1 Dripping.====
+
+[agregar traduccion aqui]
+
+====3.3.2 Equality====
+
+[agregar traduccion aqui]
+
+====3.3.3 Nakamoto Coefficient====
+
+[agregar traduccion aqui]
+
+===3.4 Value===
+
+[agregar traduccion aqui]
+
+====3.4.1 Status-Quo====
+
+[agregar traduccion aqui]
+
+====3.4.2 Work & Time====
+
+[agregar traduccion aqui]
+
+====3.4.3 Nation-States====
+
+[agregar traduccion aqui]
+
+====3.4.4 Divisibility====
+
+[agregar traduccion aqui]
+
+====3.4.5 Democracy Support Fund.====
+
+[agregar traduccion aqui]
+
+===3.5 End Game.===
+
+[agregar traduccion aqui]
+
+----
+
+==4. Acerca.==
+
+Democracy Earth Foundation es un esfuerzo hecho posible por colaboradores, donantes y partidarios de todo tipo. Somos una organización 501 (c) 3 sin fines de lucro de California y con presencia en Nueva York, París, Buenos Aires y San Francisco.
+
+===4.1 Equipo & Colaboradores.===
+
+Santiago Siri, Virgile Deville, Paula Berman, Eduardo Medina, Herb Stephens, Sandra Miller, Dwight Wilson, Mair Williams, Louis Margot-Duclot, Felipe Alvarez, Cyprien Grau, Peter Schurman, Andrew James Benson, Gonzalo Stupenengo, Lucas Isasmendi.
+
+===4.2 Comité de Asesores.===
+
+Pia Mancini, Alexis Ohanian, Matias Mosse, Ariel Kogan, Ernesto Dal Bó, Kate Courteau, Giorgio Jackson, Julio Coco, Dan Swislow.
+
+===4.3 Donantes Individuales.===
+
+Ricardo Gorodisch, Matias Mosse, Krishna Bahrat, Wenceslao Casares, Dwight Wilson, Marcos Galperin, Alejandro Estrada, Chris & Hedy Eyre, Kevin Barenblat, Clinton Yara, Tom Preston-Werner, Lloyd Nimetz, Eduardo Medina, Jim D'Amico, Erik Walter, Vivek Krishnappa, Kevin Berk, Micah Rosenbloom, Karén Gyulbudaghyan, Satoshi Nakamoto, Paul Wehrley, Josh Jacobson, Allison Sparks, Ahin Thomas, Ron Hirson, Ken Ettinger, Sharon Goldstein, Shreenath Regunathan, Matt Price, Josh Zaretsky, Heejae Lim, Allison Koblick.
+
+===4.4 Reconocimientos.===
+
+Estas son algunas de las mentes que inspiraron las ideas expresadas en este documento.
+
+Nick Szabo, Nubis Bruno (Bitex.la), Cesar Hidalgo (MIT), Balajis Srinivasan (21.co & Anderssen Horowitz), Andrea Antonopoulos (Bitcoin Evangelist), Peter Asaro (Stanford), Naval Ravikant (Angel List), Guillermo Rauch (Zeit), Andrew DeSantis (E8), Greg Slepak (Open Turtles), Demian Brener (Zeppelin), Manuel Araoz (Zeppelin), Ralph Merkle, Satoshi Nakamoto (Bitcoin), Vitalik Buterin (Ethereum), Vlad Zamfir (Ethereum), Joseph Lubin (Consensys), Ryan Shea (Blockstack), Muneeb Ali (Blockstack), Luis Cuende (Aragon), Vinny Lingham (Civic), Luke Duncan, David Graeber (London School of Economics), Peter Schurman (One Global Democracy), Jim D'Amico, Federico Ast, Harry Halpin, Guy Standing (University of London), Sebastian Serrano.
+
+===4.5 Supporters.===
+
+Estas organizaciones apoyaron nuestro trabajo a través de donaciones, asociaciones y reconocimiento a nuestros esfuerzos de investigación y desarrollo.
+
+[[File:/images/grants-awards-support-organizations.png|Grants, awards and support from these leading organizations.]]
